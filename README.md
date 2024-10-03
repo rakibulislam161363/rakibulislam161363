@@ -4,9 +4,6 @@
 <h3 align="center">Programmer | Web Designer</h3>
 
 <div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?rakibulislam161363&color=red)
-
 Skills: TAILWINDCSS / BOOTSTRAP / REACT / JS / HTML / CSS
 
 </div>

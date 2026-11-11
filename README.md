@@ -1,72 +1,117 @@
-![I am harun181](https://github.com/harun181/harun181/blob/main/code.png)
-
-<h1 align="center">Hi 👋, I'm Rakibul Islam</h1>
-<h3 align="center">Programmer | Web Designer</h3>
-
 <div align="center">
-Skills: TAILWINDCSS / BOOTSTRAP / REACT / JS / HTML / CSS
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=230&section=header&text=Rakibul%20Islam&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer&descSize=24&descAlignY=58" alt="header" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=620&lines=Hi+there%2C+I'm+Rakib+%F0%9F%91%8B;Full+Stack+Developer+from+Khulna%2C+Bangladesh;Next.js+%7C+Node.js+%7C+PostgreSQL+%7C+Prisma;I+build+end-to-end+web+applications" alt="Typing SVG" />
+</a>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakibulislam16/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rakibulislam161363.vercel.app)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakibulislam161363@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=rakibulislam161363&label=Profile+Views&color=0e75b6&style=flat)
 
 </div>
 
-- 🔭 I’m currently Learning on [Hablu Programmer](https://www.hablu-programmer.com/)
+---
 
-- 🌱 I’m currently learning Golang, Js
+## 👨‍💻 About Me
 
-- 👨‍💻 All of my projects are available at (https://github.com/rakibulislam161363)
+```js
+const rakib = {
+  name: "Rakibul Islam",
+  role: "Full Stack Developer",
+  location: "Khulna, Bangladesh 🇧🇩",
+  education: "Honours in Political Science, Rupsha College (Final Year)",
+  training: "AI-Driven Software Engineer Course (Programming Hero, Batch 7), completed",
+  stack: ["Next.js", "React", "Node.js", "Express", "PostgreSQL", "Prisma"],
+  lookingFor: "Junior full-stack developer roles & freelance work",
+};
+```
 
-- 📝 I regularly write articles on [https://www.learnwithtutul.xyz/](https://www.learnwithtutul.xyz/)
+- 🔭 Built and deployed **two full-stack projects**: an ERP & accounting SaaS and a home service marketplace
+- 🌱 Completed the AI-Driven Software Engineer course at Programming Hero (Batch 7) and always learning more
+- 💬 Ask me about **Next.js, Node.js, Prisma and PostgreSQL**
 
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
+---
 
-- 📫 How to reach me **rakibulislam161363@gmail.com**
-
-- 📄 All About Me:(rakibprofle.lovestoblog.com)
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="center">
-<a href="https://www.facebook.com/profile.php?id=100029291064290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul181" height="30" width="40" /></a>
-<a href="https://x.com/rakibul161363" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rakibul-islam-76a8aa2b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harun181" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC4cvBkNafwqX9Y7jKincbCQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Learn With Tutul" height="30" width="40" /></a>
-<a href="https://www.instagram.com/rakibulislam1613639100?igsh=aTNvZm1jYnNkNDFj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tutul_181" height="30" width="40" /></a>
-</p>
-<p align="left">
-  <a href="https://github.com/rakibulislam161363?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-<br/>
-<hr/>
-<br/>
-
-## Github Stats -
-
-<p align="center">
-  <a href="https://github.com/rakibulislam161363">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakibulislam161363&theme=radical" alt="Rakib's GitHub Contribution"/>
-  </a>
-</p>
-
-<a> 
-    <a href="https://github.com/rakibulislam161363"><img alt="Harun's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=rakibulislam161363&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/rakibulislam161363"><img alt="Harun's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rakibulislam161363&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
-<br/>
-
-<br/>
-
-## Connect with me
+## 🛠️ Tech Stack
 
 <div align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind&perline=7" alt="frontend" />
 <br/>
-<a href="https://x.com/rakibul161363" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px; margin-right: 2px;" />
-</a>
-<a href="https://www.linkedin.com/in/rakibul-islam-76a8aa2b0/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px; margin-right: 2px;" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100029291064290" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px; margin-right: 2px;" />
-</a>  
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,mongodb&perline=5" alt="backend" />
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman&perline=5" alt="tools" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧾 EnterCount
+**Smart ERP & Accounting SaaS**
+
+Cloud-based platform to manage transactions, inventory, sales and customers, with real-time dashboards and an AI-powered support chat (Socket.io + Gemini API).
+
+- 🔐 JWT auth + role-based access
+- 📊 Accounting, Inventory, Sales & Customer dashboards
+- 🎨 Tailwind CSS + Framer Motion
+
+**Stack:** `Next.js` `Node.js` `Express` `Prisma` `PostgreSQL`
+
+[🌐 Live](https://enter-count-front-mxk7.vercel.app) · [💻 Client](https://github.com/rakibulislam161363/EnterCount-Front) · [⚙️ Server](https://github.com/rakibulislam161363/enter-conut-backend)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ FixItNow
+**Home Service Marketplace**
+
+Customers book services, technicians manage bookings, and admins monitor the whole platform.
+
+- 👥 Customer, Technician & Admin dashboards
+- 🔐 Secure authentication & role-based authorization
+- 📅 Booking and service management
+
+&nbsp;
+
+[🌐 Live](https://front-end-ruddy-theta.vercel.app) · [💻 Client](https://github.com/rakibulislam161363/HomeServiceFront) · [⚙️ Server](https://github.com/rakibulislam161363/HomeServicePlatform)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rakibulislam161363&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibulislam161363&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=rakibulislam161363&theme=tokyonight&hide_border=true" alt="streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 📫 Let's build something great together!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=120&section=footer" alt="footer" />
+
 </div>
